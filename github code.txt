@@ -1,0 +1,6 @@
+1. git add .   -all edit
+2. git commit -m"xyz"   -file 
+3. git push origin main   -name of branch change.
+
+
+ 
